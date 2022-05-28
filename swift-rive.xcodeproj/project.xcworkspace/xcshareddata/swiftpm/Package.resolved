@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RiveRuntime",
+        "repositoryURL": "https://github.com/rive-app/rive-ios.git",
+        "state": {
+          "branch": "main",
+          "revision": "6c172f7279a410cb50017dffa548424566ceb232",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
